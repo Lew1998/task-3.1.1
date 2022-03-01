@@ -1,4 +1,4 @@
-package com.proselyte.springbootrest;
+package com.beliy.springbootrest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

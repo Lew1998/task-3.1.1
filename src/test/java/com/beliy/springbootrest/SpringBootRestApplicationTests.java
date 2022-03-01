@@ -1,4 +1,4 @@
-package com.proselyte.springbootrest;
+package com.beliy.springbootrest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

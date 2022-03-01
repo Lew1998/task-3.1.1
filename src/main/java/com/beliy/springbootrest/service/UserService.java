@@ -1,7 +1,7 @@
-package com.proselyte.springbootrest.service;
+package com.beliy.springbootrest.service;
 
-import com.proselyte.springbootrest.model.User;
-import com.proselyte.springbootrest.repository.UserRepository;
+import com.beliy.springbootrest.repository.UserRepository;
+import com.beliy.springbootrest.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

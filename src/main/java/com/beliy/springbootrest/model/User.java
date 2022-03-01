@@ -1,4 +1,4 @@
-package com.proselyte.springbootrest.model;
+package com.beliy.springbootrest.model;
 
 import lombok.*;
 import org.hibernate.Hibernate;
